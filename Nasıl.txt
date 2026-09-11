@@ -1,0 +1,34 @@
+
+
+Bu, ThisisMyTube programının nasıl kullanılacağını size çok basitçe özetleyen bir mini klavuzdur.
+
+Programı çalıştırır çalıştırmaz, içinde tanıtım resimlerindeki gibi olmayan, boş bir pencere açılmalıdır. Bunun nedeni, programın henüz bilgisayarınızdaki videolu içeriklerin yerini bilmemesidir. Ona içeriklerin yerini göstererek hafızaya kaydetmesini sağlamalısınız. Buna "indeks oluşturma" diyoruz. 
+
+İndeks oluşturmak için, programın sol panelinden "İndeksleme" seçeneğine basın. Şimdi yeni bir ekranla karşılaşmış olacaksınız. İçerikteki Ana Dizin yolunu, sıradan içerikler (örneğin sosyal medyadan indirdiğiniz çeşitli videolar) için ayarlayın. 
+
+Yetişkin içerikleriniz varsa, Private dizini yolunu ayarlayın. Parola isimli butona tıklatarak parola ayarlayın. Bu, birazdan ana sayfanıza geçtiğinizde, yetişkin içeriklerinizi doğrudan açamamanız içindir. Amaç, çocuk güvenliğidir. Parolanızı iki kez girip onaylayın.
+
+Dizi Modu, Sinema Modu, Kids (çizgi film) Modu , Korku modu, Müzik modu için de yol tanımlaması yapın. Program, hangi dizinin ne içerdiğini bilemez; bu nedenle içeriklerinizi doğru klasörlere koyduğunuzdan emin olmalısınız. 
+
+Herşey tamam olduğunda, en alttaki mavi renkli Taramayı Başlat butonuna basın. Biraz beklettikten sonra size taramanın başarılı olduğunu ve anasayfaya video kartlarının dizildiğini söyleyecen mesajı görüp onaylayın.
+
+Yukarıdan, programın mor renkli simgesine, ya da sol üst köşedeki Anasayfa menüsüne basın. İçeriklerinizin (varsayılan olarak "ana") video kartları halinde döşendiğini göreceksiniz. İstediğiniz bir videoya bir kez tıklatın. 
+
+Videonun sorunsuz oynadığından emin olmalısınız. Bir hata ile karşılaşıyorsanız uygulamanın github sayfasındaki issues kısmına not bırakın. 
+
+Video oynarken, yardımcı menülerden faydalanın. Seek çubuğundan, ses sürgüsünden, sessiz butonundan, aşağıdaki durdurma, tam ekran, bir önceki ve bir sonraki butonlarından, ve diğer tüm öğelerden faydalanın. En alttaki yorum satırları, internette yayınlanmaz; sadece programın hafızasında kalıcı olarak depolanır. Bu yorum bölümünün amacı, izlediğiniz video ya da film hakkında not yazabilmenizdir. Siz yazdığınızda, herhangi birşey yapmanıza gerek kalmadan otomatik kaydedilir. İzlediğiniz videolar için izlendi kutucuğunu aktif edebilirsinzi. Bu, onu soldaki izlenenler paneline yerleştirir ve oradan tıklatıldığında doğrudan oynatılabilir kılar. Yıldızladığınızda da, aynı şekilde sol panelde favoriler listesine kaydedilir ve istendiği an oynatılır. Bir sonraki videoyu otomatik oynat kutucuğu, dizi filmler ya da sıralı ders videoları için idealdir. 
+
+Videoyu tam ekran yapmak için çifttıklayın ya da alttaki tam ekran butonuna basın. Çıkmak için tekrar çifttıklatın ya da Klavyeden Esc kısayoluna basın. Tam ekran yaptığınızda, seek çubuğu bir süre ekranda görünür ve fareyi kımıldatmayı bıraktığınızda yok olur. 
+
+Pause yapmak için, boşluk tuşuna bir kez basabilir, fareyle video üzerine bir kez tıklatabilir, ya da play butonuna basabilirsiniz. Aynısını tekrarladığınızda video tekrar oynamaya başlar. 
+
+Altyazılar varsa, video adı ile aynı adı taşıyorsa uygulama tarafından otomatik tespit edilerek anında oynatılır; sizin birşey yapmanıza gerek yoktur. 
+
+Video hızını, aynen bilinen platformlarda olduğu gibi sesi bozmadan arttırıp azaltabilirsiniz. 
+
+Yaptığınız tüm ayarlamalar, otomatik olarak kaydedilir. Bu ayarları yedekleyebilir, yedekten geri yükleyebilir, ya da sıfırlayarak yok edebilirsiniz (fabrika ayarlarına geri döndürme).
+
+Herhangi bir hata ile karşılaştığınızda, github anasayfamdaki issues kısmına bildirimde bulunun. Çeviri dosyaları için de bildirimlerinizi buraya yapabilirsiniz. 
+
+
+

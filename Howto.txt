@@ -1,0 +1,29 @@
+This is a mini-guide that briefly explains how to use the ThisisMyTube program.
+
+Upon launching the program, a blank window should appear—unlike the one shown in the promotional images. This is because the program does not yet know the location of the video content on your computer. You need to point the program to the content's location so it can save it to its memory. We call this process "indexing."
+
+To create an index, click the "Indexing" option in the program's left panel. You will now see a new screen. Set the path for the "Main Directory" to cover your standard content (such as various videos downloaded from social media).
+
+If you have adult content, set the path for the "Private" directory. Click the "Password" button to set a password. This ensures that adult content cannot be opened immediately when you switch to the main page; the goal is child safety. Enter and confirm your password twice.
+
+Also, define paths for Series Mode, Cinema Mode, Kids (cartoons) Mode, Horror Mode, and Music Mode. The program cannot automatically detect the specific nature of a series, so you must ensure your content is placed in the correct folders.
+
+Once everything is set up, click the blue "Start Scanning" button at the bottom. After a brief wait, you will see a message confirming the scan was successful and that video cards have been arranged on the main page; acknowledge this message.
+
+Click the program's purple icon at the top or the "Home" menu in the top-left corner. You will see your content (specifically the "Main" category by default) displayed as video cards. Click once on any video you wish to watch.
+
+Make sure the video plays without any issues. If you encounter an error, please leave a note in the "Issues" section of the application's GitHub page.
+
+Make use of the auxiliary menus while playing a video. Utilize the seek bar, volume slider, mute button, the playback controls at the bottom (stop, full screen, previous/next), and all other elements. Comments entered in the bottom section are not published online; they are stored permanently within the program's memory. This comment section is designed for you to jot down notes about the video or movie you are watching. Entries are saved automatically without requiring any further action. You can check the "watched" box for videos you have viewed; this adds them to the "Watched" panel on the left, allowing them to be played directly by clicking on them. Similarly, starring a video saves it to the "Favorites" list in the left panel, making it ready for playback at any time. The "autoplay next video" option is ideal for TV series or sequential educational videos.
+
+Double-click the video or press the full-screen button at the bottom to enter full-screen mode. Double-click again or press the Esc key to exit. In full-screen mode, the seek bar appears briefly and disappears when you stop moving the mouse.
+
+To pause, you can press the spacebar once, click the video once with your mouse, or press the play/pause button. Repeating the same action resumes playback.
+
+If subtitles are available and share the same filename as the video, the application detects and loads them automatically; no action is required on your part.
+
+You can adjust the video playback speed—increasing or decreasing it without distorting the audio—just as you would on popular streaming platforms.
+
+All your settings are saved automatically. You can back up these settings, restore them from a backup, or wipe them by resetting (reverting to factory settings).
+
+If you encounter any errors, please report them in the "Issues" section of my GitHub homepage. You can also submit reports regarding translation files there.
