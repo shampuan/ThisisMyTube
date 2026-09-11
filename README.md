@@ -1,7 +1,7 @@
 # ThisisMyTube
 A lightweight, YouTube-like local video library browser for Linux.
 
-The program is currently in beta and still under development. Once ready, you will be able to download it from this repository. The program will be distributed solely as a .deb package; I cannot provide support for other Linux distributions.
+The program is currently in the beta stage and is still under development. You can download and use the test version right now. Follow this repository for updates. The program will be distributed solely as a .deb package; I cannot provide support for other Linux distributions.
 
 <img width="1920" height="1045" alt="Ekran görüntüsü_2026-09-08_13-38-41" src="https://github.com/user-attachments/assets/2821bf67-69d4-4eb0-8e7a-c18f1eba59d7" />
 
