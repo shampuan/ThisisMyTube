@@ -1,0 +1,11 @@
+Package: thisismytube
+Version: 1.0.0
+Architecture: all
+Maintainer: A. Serhat KILICOGLU <https://github.com/shampuan>
+Depends: python3, python3-pyqt6, python3-mpv, libmpv2 | libmpv1, ffmpeg
+Section: video
+Priority: optional
+Description: ThisisMyTube - Local Media & Personal Video Hub
+ A modern, offline media center that turns your local video and movie
+ collection into a YouTube-style browsing experience. Privacy-focused,
+ lightweight, and powered by libmpv.
