@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThisIsMyTube 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-24 12:00+0300\n"
+"PO-Revision-Date: 2026-03-24 12:00+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU <shampuan>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# --- Menü & Modlar ---
+msgid "⚙️ Ayarlar & Seçenekler"
+msgstr "⚙️ Settings & Options"
+
+msgid "Ana Sayfa"
+msgstr "Home"
+
+msgid "İndeksleme"
+msgstr "Indexing"
+
+msgid "Ayarlar"
+msgstr "Settings"
+
+msgid "Hakkında"
+msgstr "About"
+
+msgid "▼ Mod Seçeneği"
+msgstr "▼ Mode Options"
+
+msgid "▲ Mod Seçeneği"
+msgstr "▲ Mode Options"
+
+msgid "Normal Mod"
+msgstr "Normal Mode"
+
+msgid "Private Mod"
+msgstr "Private Mode"
+
+msgid "Dizi Mod"
+msgstr "Series Mode"
+
+msgid "Sinema Mod"
+msgstr "Cinema Mode"
+
+msgid "Kids Mod"
+msgstr "Kids Mode"
+
+msgid "Korku Mod"
+msgstr "Horror Mode"
+
+msgid "Müzik Mod"
+msgstr "Music Mode"
+
+# --- Sol Panel & Gezgin ---
+msgid "Klasörler"
+msgstr "Folders"
+
+msgid "(Bu mod için geçerli bir dizin tanımlanmamış)"
+msgstr "(No valid directory defined for this mode)"
+
+msgid "Kök Dizin"
+msgstr "Root Directory"
+
+msgid "⬆ Üst Dizin"
+msgstr "⬆ Parent Directory"
+
+msgid "Dök"
+msgstr "Dump"
+
+msgid "✅ İzlenenler"
+msgstr "✅ Watched"
+
+msgid "⭐ Favoriler"
+msgstr "⭐ Favorites"
+
+msgid "> Önerilen Videolar"
+msgstr "> Recommended Videos"
+
+msgid "video"
+msgstr "videos"
+
+# --- Başlık & Arama ---
+msgid "Ana Sayfaya dön"
+msgstr "Return to Home"
+
+msgid "Video arama (birkaç harf yazıp Enter'a basın)"
+msgstr "Search videos (type a few letters and press Enter)"
+
+msgid "Arama Sonuçları"
+msgstr "Search Results"
+
+msgid "video bulundu"
+msgstr "videos found"
+
+msgid "(ilk {max_res} tanesi gösteriliyor)"
+msgstr "(showing first {max_res})"
+
+msgid "Arama"
+msgstr "Search"
+
+msgid "Klasör İçeriği"
+msgstr "Folder Contents"
+
+msgid "Klasör"
+msgstr "Folder"
+
+msgid "Yükleniyor..."
+msgstr "Loading..."
+
+# --- Oynatıcı Kontrolleri ---
+msgid "Bir video seçiniz"
+msgstr "Select a video"
+
+msgid "Önceki Video"
+msgstr "Previous Video"
+
+msgid "Oynat / Duraklat"
+msgstr "Play / Pause"
+
+msgid "Sonraki Rastgele Video"
+msgstr "Next Random Video"
+
+msgid "Tam Ekran"
+msgstr "Fullscreen"
+
+msgid "Videonun bulunduğu klasörü aç"
+msgstr "Open containing folder"
+
+msgid "Hız:"
+msgstr "Speed:"
+
+msgid "Sesi Aç / Kapat"
+msgstr "Mute / Unmute"
+
+msgid "Ses:"
+msgstr "Volume:"
+
+msgid "İzlendi"
+msgstr "Watched"
+
+msgid "Puan:"
+msgstr "Rating:"
+
+msgid "Sıradaki Videoyu Otomatik Oynat"
+msgstr "Autoplay Next Video"
+
+msgid "Video Özeti & Kişisel Notlar:"
+msgstr "Video Summary & Personal Notes:"
+
+msgid "Bu video için özet veya kişisel notlarınızı buraya yazabilirsiniz (yazdıklarınız otomatik kaydedilir)..."
+msgstr "You can write your summary or personal notes for this video here (auto-saved)..."
+
+# --- İndeksleme & Disk Tarama ---
+msgid "Disk Tarama Ayarları"
+msgstr "Disk Scan Settings"
+
+msgid "<b>Taranacak Ana Dizin:</b>"
+msgstr "<b>Main Directory to Scan:</b>"
+
+msgid "<b>Private İçerik Dizini:</b>"
+msgstr "<b>Private Content Directory:</b>"
+
+msgid "<b>Dizi İçerik Dizini:</b>"
+msgstr "<b>Series Directory:</b>"
+
+msgid "<b>Sinema İçerik Dizini:</b>"
+msgstr "<b>Cinema Directory:</b>"
+
+msgid "<b>Kids İçerik Dizini:</b>"
+msgstr "<b>Kids Directory:</b>"
+
+msgid "<b>Korku İçerik Dizini:</b>"
+msgstr "<b>Horror Directory:</b>"
+
+msgid "<b>Müzik İçerik Dizini:</b>"
+msgstr "<b>Music Directory:</b>"
+
+msgid "/home/kullanici/Videolar veya /mnt/HariciDisk"
+msgstr "/home/user/Videos or /mnt/ExternalDisk"
+
+msgid "/home/kullanici/Videolar/Private"
+msgstr "/home/user/Videos/Private"
+
+msgid "/home/kullanici/Videolar/Diziler"
+msgstr "/home/user/Videos/Series"
+
+msgid "/home/kullanici/Videolar/Filmler"
+msgstr "/home/user/Videos/Movies"
+
+msgid "/home/kullanici/Videolar/CizgiFilmler"
+msgstr "/home/user/Videos/Cartoons"
+
+msgid "/home/kullanici/Videolar/Korku"
+msgstr "/home/user/Videos/Horror"
+
+msgid "/home/kullanici/Videolar/Muzik"
+msgstr "/home/user/Videos/Music"
+
+msgid "Dizin Ekle"
+msgstr "Add Directory"
+
+msgid "Parola"
+msgstr "Password"
+
+msgid "Taramayı Başlat"
+msgstr "Start Scan"
+
+msgid "Tarama yapılmadı. Video listesi boş."
+msgstr "No scan performed. Video list is empty."
+
+msgid "Dizin Seçin"
+msgstr "Select Directory"
+
+# --- Bildirimler & Uyarılar ---
+msgid "Dil Değiştirildi"
+msgstr "Language Changed"
+
+msgid "Dil ayarının geçerli olabilmesi için lütfen uygulamayı kapatıp yeniden başlatın."
+msgstr "Please restart the application for the language setting to take effect."
+
+msgid "Video Bulunamadı"
+msgstr "Video Not Found"
+
+msgid "Oynatmayı denediğiniz videoya erişilemiyor. Adı değiştirilmiş, taşınmış ya da silinmiş olabilir. Yeni bir indeks taraması yapmanız önerilir. Bu taramadan sonra tüm dosyalara sorunsuzca erişebilirsiniz."
+msgstr "The video you are trying to play cannot be accessed. It may have been renamed, moved, or deleted. Performing a new index scan is recommended."
+
+msgid "Bilgi"
+msgstr "Information"
+
+msgid "Şu anda oynatılan bir video yok."
+msgstr "No video is currently playing."
+
+msgid "Güvenlik Uyarısı"
+msgstr "Security Warning"
+
+msgid "Private Mod için henüz parola belirlenmemiş!\nLütfen önce 'İndeksleme' menüsünden parola belirleyin."
+msgstr "Password has not been set for Private Mode yet!\nPlease set a password from the 'Indexing' menu first."
+
+# --- Hakkında Sayfası ---
+msgid "ThisIsMyTube Hakkında"
+msgstr "About ThisIsMyTube"
+
+msgid "Sürüm:"
+msgstr "Version:"
+
+msgid "Lisans:"
+msgstr "License:"
+
+msgid "GUI / UX:"
+msgstr "GUI / UX:"
+
+msgid "Programlama Dili:"
+msgstr "Programming Language:"
+
+msgid "Yapımcı:"
+msgstr "Author:"
+
+msgid "Bu program; bilgisayarınızda depolanan video, film, dizi ve müzik gibi tüm yerel medya arşivinizi modern bir video platformu deneyimiyle önünüze seren gelişmiş bir kişisel medya merkezidir. Popüler video servislerinin sunduğu gezinme konforu, öneri akışı ve izleme kolaylıklarını tamamen çevrimdışı, gizlilik odaklı ve hızlı bir ortamda sunarak eğlenceli bir izleme deneyimi sağlar."
+msgstr "This program is an advanced personal media center that brings your entire local media archive—videos, movies, series, and music—to life with a modern video platform experience. It provides an enjoyable viewing experience completely offline, privacy-focused, and fast."
+
+msgid "Bu program hiçbir garanti getirmez."
+msgstr "This program comes with absolutely no warranty."
+
+msgid "Telif hakkı {copy} 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Copyright {copy} 2026 - A. Serhat KILIÇOĞLU"
+
+# --- Ayarlar Sayfası ---
+msgid "Uygulama Ayarları"
+msgstr "Application Settings"
+
+msgid "Uygulama Dili"
+msgstr "Application Language"
+
+msgid "Arayüzün görüntüleneceği dili seçin. (Değişikliğin geçerli olması için yeniden başlatma gerekir)"
+msgstr "Select interface language. (Restart required for changes to take effect)"
+
+msgid "Ayarları ve İndeksi Yedekle"
+msgstr "Backup Settings & Index"
+
+msgid "Taranan klasörleri, video listesini, yıldız puanlarını ve notlarınızı tek bir dosyaya kaydeder."
+msgstr "Saves scanned folders, video list, star ratings, and personal notes into a single file."
+
+msgid "Yedek Al..."
+msgstr "Backup..."
+
+msgid "Yedekten Geri Yükle"
+msgstr "Restore from Backup"
+
+msgid "Daha önce alınmış bir yedek dosyasını geri yükleyerek arşivinizi ve ayarlarınızı tazeler."
+msgstr "Restores your archive and settings from a previously saved backup file."
+
+msgid "Geri Yükle..."
+msgstr "Restore..."
+
+msgid "Küçük Resim (Thumbnail) Önbelleğini Temizle"
+msgstr "Clear Thumbnail Cache"
+
+msgid "Otomatik oluşturulan tüm video kapak resimlerini silerek diskte yer açar. Gerektiğinde tekrar üretilirler."
+msgstr "Frees up disk space by deleting all generated cover thumbnails. They will be regenerated when needed."
+
+msgid "Önbelleği Boşalt"
+msgstr "Clear Cache"
+
+msgid "Fabrika Ayarlarına Sıfırla"
+msgstr "Reset to Factory Defaults"
+
+msgid "Tüm taranmış videoları, puanları, kişisel notları ve dizin tanımlarını tamamen siler."
+msgstr "Completely deletes all indexed videos, ratings, notes, and directory settings."
+
+msgid "Her Şeyi Sıfırla"
+msgstr "Reset Everything"
+
+msgid "Yedek Dosyası Kaydet"
+msgstr "Save Backup File"
+
+msgid "JSON Dosyaları (*.json)"
+msgstr "JSON Files (*.json)"
+
+msgid "Yedek Dosyası Seçin"
+msgstr "Select Backup File"
+
+msgid "Geri Yükleme Onayı"
+msgstr "Restore Confirmation"
+
+msgid "Mevcut ayarlarınız ve video indeksiniz bu yedekle değiştirilecek. Onaylıyor musunuz?"
+msgstr "Your current settings and video index will be replaced with this backup. Do you confirm?"
+
+msgid "Önbellek Temizleme"
+msgstr "Clear Cache"
+
+msgid "Oluşturulmuş tüm video küçük resimleri silinecektir. Onaylıyor musunuz?"
+msgstr "All generated video thumbnails will be deleted. Do you confirm?"
+
+msgid "Dikkat: Sıfırlama"
+msgstr "Warning: Reset"
+
+msgid "Tüm kayıtlı videolar, notlar, puanlamalar ve dizinler kalıcı olarak silinecek!\n\nBu işlem geri alınamaz. Devam edilsin mi?"
+msgstr "All saved videos, notes, ratings, and directories will be permanently deleted!\n\nThis cannot be undone. Do you want to continue?"
+
+# --- Private Auth Diyalogları ---
+msgid "Güvenlik Doğrulaması"
+msgstr "Security Verification"
+
+msgid "Private Mod için parolayı giriniz:"
+msgstr "Enter password for Private Mode:"
+
+msgid "İptal"
+msgstr "Cancel"
+
+msgid "Giriş Yap"
+msgstr "Login"
+
+msgid "Hata"
+msgstr "Error"
+
+msgid "Hatalı parola! Erişim engellendi."
+msgstr "Incorrect password! Access denied."
+
+msgid "Private Mod Parolası Belirle"
+msgstr "Set Private Mode Password"
+
+msgid "Private Mod Güvenlik Ayarı"
+msgstr "Private Mode Security Setting"
+
+msgid "Mevcut Parola:"
+msgstr "Current Password:"
+
+msgid "Yeni Parola:"
+msgstr "New Password:"
+
+msgid "Yeni Parola (Tekrar):"
+msgstr "New Password (Repeat):"
+
+msgid "Parolayı Kaldır"
+msgstr "Remove Password"
+
+msgid "Kaydet"
+msgstr "Save"
+
+msgid "Mevcut parolanızı yanlış girdiniz!"
+msgstr "You entered your current password incorrectly!"
+
+msgid "Uyarı"
+msgstr "Warning"
+
+msgid "Parola boş bırakılamaz."
+msgstr "Password cannot be empty."
+
+msgid "Girdiğiniz yeni parolalar birbiriyle eşleşmiyor!"
+msgstr "The new passwords do not match!"
+
+msgid "Başarılı"
+msgstr "Success"
+
+msgid "Private mod parolası başarıyla kaydedildi."
+msgstr "Private mode password saved successfully."
+
+msgid "Parolayı kaldırmak için mevcut parolayı doğru girmelisiniz."
+msgstr "You must enter the current password correctly to remove it."
+
+msgid "Onay"
+msgstr "Confirmation"
+
+msgid "Private mod parolasını tamamen kaldırmak istediğinize emin misiniz?"
+msgstr "Are you sure you want to completely remove the Private mode password?"
+
+msgid "Parola koruması kaldırıldı."
+msgstr "Password protection removed."
+
+msgid "Kayıtlı indeks yüklendi: Toplam {count} video."
+msgstr "Saved index loaded: Total {count} videos."
+
+msgid "Tarama Tamamlandı!"
+msgstr "Scan Completed!"
+
+msgid "Toplam Dosya Sayısı: {count}"
+msgstr "Total File Count: {count}"
+
+msgid "Bulunan Video Sayısı: {count}"
+msgstr "Videos Found: {count}"
+
+msgid "Tarama Başarılı"
+msgstr "Scan Successful"
+
+msgid "Toplam {count} video bulundu ve Ana Sayfaya rastgele dizildi!"
+msgstr "Total {count} videos found and randomly placed on Home page!"
+
+msgid "Seçilen mod: {mode} ({count} video)"
+msgstr "Selected mode: {mode} ({count} videos)"

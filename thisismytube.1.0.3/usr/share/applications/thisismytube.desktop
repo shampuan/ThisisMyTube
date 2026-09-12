@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0.3
+Type=Application
+Name=ThisisMyTube
+GenericName=Video Player
+GenericName[tr]=Video Oynatıcı
+Comment=This is your tube! Local media archive player
+Comment[tr]=Kişisel yerel medya arşivi oynatıcı ve yöneticisi
+Exec=thisismytube
+Icon=ThisisMyTube
+Terminal=false
+StartupNotify=true
+Categories=AudioVideo;Player;Video;Utility;
+Keywords=video;player;tube;media;mpv;
