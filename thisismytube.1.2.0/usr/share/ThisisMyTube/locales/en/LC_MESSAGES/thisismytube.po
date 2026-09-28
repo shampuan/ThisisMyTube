@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThisisMyTube 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-29 12:00+0300\n"
+"PO-Revision-Date: 2026-03-29 12:00+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU <shampuan>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ThisisMyTube - This is your tube!"
+msgstr "ThisisMyTube - This is your tube!"
+
+msgid "▼ Mod Seçeneği"
+msgstr "▼ Mode Option"
+
+msgid "▲ Mod Seçeneği"
+msgstr "▲ Mode Option"
+
+msgid "Normal Mod"
+msgstr "Normal Mode"
+
+msgid "Private Mod"
+msgstr "Private Mode"
+
+msgid "Dizi Mod"
+msgstr "Series Mode"
+
+msgid "Sinema Mod"
+msgstr "Cinema Mode"
+
+msgid "Belgesel Mod"
+msgstr "Documentary Mode"
+
+msgid "Kids Mod"
+msgstr "Kids Mode"
+
+msgid "Korku Mod"
+msgstr "Horror Mode"
+
+msgid "Müzik Mod"
+msgstr "Music Mode"
+
+msgid "Klasörler"
+msgstr "Folders"
+
+msgid "Dök"
+msgstr "Dump"
+
+msgid "Dökülüyor..."
+msgstr "Dumping..."
+
+msgid "Buraya Taşı"
+msgstr "Move Here"
+
+msgid "Buraya Taşı (1)"
+msgstr "Move Here (1)"
+
+msgid "Buraya Taşı ({n})"
+msgstr "Move Here ({n})"
+
+msgid "Panodaki veya arama ekranında seçili videoları bu klasöre taşır (Ctrl+V)"
+msgstr "Moves selected videos from clipboard or search to this folder (Ctrl+V)"
+
+msgid "(Bu mod için geçerli bir dizin tanımlanmamış)"
+msgstr "(No valid directory defined for this mode)"
+
+msgid "Kök Dizin"
+msgstr "Root Directory"
+
+msgid "Üst Dizin"
+msgstr "Parent Directory"
+
+msgid ".. [Üst Dizin]"
+msgstr ".. [Parent Directory]"
+
+msgid "✅ İzlenenler"
+msgstr "✅ Watched"
+
+msgid "⭐ Favoriler"
+msgstr "⭐ Favorites"
+
+msgid "Yükleniyor..."
+msgstr "Loading..."
+
+msgid "DELETED"
+msgstr "DELETED"
+
+msgid "Çöpe Gönder"
+msgstr "Send to Trash"
+
+msgid "Yeniden Adlandır"
+msgstr "Rename"
+
+msgid "İçeren Klasörü Aç"
+msgstr "Open Containing Folder"
+
+msgid "Video Bilgileri (I)"
+msgstr "Video Info (I)"
+
+msgid "Video Bilgilerini Göster (I)"
+msgstr "Show Video Info (I)"
+
+msgid "Video Bulunamadı"
+msgstr "Video Not Found"
+
+msgid "Oynatmayı denediğiniz videoya erişilemiyor. Dosya silinmiş veya taşınmış olduğu için listeden otomatik olarak kaldırıldı."
+msgstr "The video you are trying to play cannot be accessed. It has been automatically removed from the list as the file was deleted or moved."
+
+msgid "Önceki Video"
+msgstr "Previous Video"
+
+msgid "Sonraki Rastgele Video"
+msgstr "Next Random Video"
+
+msgid "Oynat / Duraklat"
+msgstr "Play / Pause"
+
+msgid "Tam Ekran"
+msgstr "Fullscreen"
+
+msgid "Videonun bulunduğu klasörü aç"
+msgstr "Open containing folder"
+
+msgid "Bu videoyu çöpe gönder"
+msgstr "Send this video to trash"
+
+msgid "Videonun adını değiştir"
+msgstr "Rename this video"
+
+msgid "Hız:"
+msgstr "Speed:"
+
+msgid "Sesi Aç / Kapat"
+msgstr "Mute / Unmute"
+
+msgid "Ses:"
+msgstr "Volume:"
+
+msgid "İzlendi"
+msgstr "Watched"
+
+msgid "Puan:"
+msgstr "Rating:"
+
+msgid "Sıradaki Videoyu Otomatik Oynat"
+msgstr "Autoplay Next Video"
+
+msgid "Video Özeti & Kişisel Notlar:"
+msgstr "Video Summary & Personal Notes:"
+
+msgid "Bu video için özet veya kişisel notlarınızı buraya yazabilirsiniz (yazdıklarınız otomatik kaydedilir)..."
+msgstr "You can write your summary or personal notes for this video here (auto-saved)..."
+
+msgid "Bir video seçiniz"
+msgstr "Select a video"
+
+msgid "Bilgi"
+msgstr "Information"
+
+msgid "Şu anda oynatılan bir video yok."
+msgstr "No video is currently playing."
+
+msgid "Dosya bulunamadı."
+msgstr "File not found."
+
+msgid "Dosya bulunamadı veya zaten silinmiş."
+msgstr "File not found or already deleted."
+
+msgid "Video Adını Değiştir"
+msgstr "Rename Video"
+
+msgid "Yeni dosya adı:"
+msgstr "New file name:"
+
+msgid "Hata"
+msgstr "Error"
+
+msgid "Bu isimde bir dosya zaten mevcut."
+msgstr "A file with this name already exists."
+
+msgid "Dosya adı değiştirilemedi:\n{err}"
+msgstr "File name could not be changed:\n{err}"
+
+msgid "Bilinmiyor"
+msgstr "Unknown"
+
+msgid "Dosya Adı:"
+msgstr "File Name:"
+
+msgid "Dosya Boyutu:"
+msgstr "File Size:"
+
+msgid "Çözünürlük:"
+msgstr "Resolution:"
+
+msgid "Format / Codec:"
+msgstr "Format / Codec:"
+
+msgid "Süre:"
+msgstr "Duration:"
+
+msgid "Değiştirilme Tarihi:"
+msgstr "Date Modified:"
+
+msgid "Konum:"
+msgstr "Location:"
+
+msgid "Video Özellikleri"
+msgstr "Video Properties"
+
+msgid "Video Bilgileri"
+msgstr "Video Information"
+
+msgid "Dosya çöpe gönderilemedi:\n{err}"
+msgstr "Failed to send file to trash:\n{err}"
+
+msgid "'{name}' adlı videoyu çöpe göndermek istediğinizden emin misiniz?"
+msgstr "Are you sure you want to send '{name}' to trash?"
+
+msgid "Taşınacak video seçilmedi!\n\n• Ana sayfada bir videoyu seçip Ctrl+X yapabilir,\n• Ya da Arama sayfasında kutucukları işaretleyebilirsiniz."
+msgstr "No video selected to move!\n\n• You can select a video on Home and press Ctrl+X,\n• Or check the boxes on Search page."
+
+msgid "Geçerli bir hedef klasör seçilmedi."
+msgstr "A valid target folder was not selected."
+
+msgid "<b>{count}</b> adet video şu klasöre taşınacak:<br><br><b>{folder}</b><br><br>Onaylıyor musunuz?"
+msgstr "<b>{count}</b> videos will be moved to:<br><br><b>{folder}</b><br><br>Do you confirm?"
+
+msgid "Videoları Taşı"
+msgstr "Move Videos"
+
+msgid "{count} video başarıyla taşındı."
+msgstr "{count} videos successfully moved."
+
+msgid "Taşıma Tamamlandı"
+msgstr "Move Completed"
+
+msgid "Hata: Lütfen geçerli bir taranacak ana dizin belirtin."
+msgstr "Error: Please specify a valid main directory to scan."
+
+msgid "Tarama Başlatıldı..."
+msgstr "Scan Started..."
+
+msgid "Lütfen bekleyin."
+msgstr "Please wait."
+
+msgid "Tarama Tamamlandı!"
+msgstr "Scan Completed!"
+
+msgid "Toplam Dosya Sayısı:"
+msgstr "Total Files:"
+
+msgid "Bulunan Video Sayısı:"
+msgstr "Videos Found:"
+
+msgid "Tarama Başarılı"
+msgstr "Scan Successful"
+
+msgid "Toplam {count} video bulundu ve kaydedildi!"
+msgstr "A total of {count} videos were found and saved!"
+
+msgid "video bulundu"
+msgstr "videos found"
+
+msgid "{count} video bulundu"
+msgstr "{count} videos found"
+
+msgid "(ilk {max_res} tanesi gösteriliyor)"
+msgstr "(showing first {max_res})"
+
+msgid "Arama"
+msgstr "Search"
+
+msgid "Arama: \"{query}\" ({count_text})"
+msgstr "Search: \"{query}\" ({count_text})"
+
+msgid "Klasör"
+msgstr "Folder"
+
+msgid "İçerik dökülüyor, lütfen bekleyin..."
+msgstr "Dumping contents, please wait..."
+
+msgid "Klasör: {folder} (İçerik dökülüyor, lütfen bekleyin...)"
+msgstr "Folder: {folder} (Dumping contents, please wait...)"
+
+msgid "video"
+msgstr "video"
+
+msgid "Klasör: {folder} ({count} video)"
+msgstr "Folder: {folder} ({count} videos)"
+
+msgid "{count} video"
+msgstr "{count} videos"
+
+msgid "0 video"
+msgstr "0 videos"
+
+msgid "Güvenlik Uyarısı"
+msgstr "Security Warning"
+
+msgid "Private Mod için henüz parola belirlenmemiş!\nLütfen önce 'İndeksleme' menüsünden parola belirleyin."
+msgstr "Password has not been set for Private Mode yet!\nPlease set a password from the 'Indexing' menu first."
+
+msgid "Seçilen mod: <b>{mode}</b> ({count} video)"
+msgstr "Selected mode: <b>{mode}</b> ({count} videos)"
+
+msgid "Başarılı"
+msgstr "Success"
+
+msgid "Yedek başarıyla oluşturuldu:\n{path}"
+msgstr "Backup successfully created:\n{path}"
+
+msgid "Yedekleme başarısız oldu:\n{err}"
+msgstr "Backup failed:\n{err}"
+
+msgid "Yedek başarıyla geri yüklendi ve uygulandı!"
+msgstr "Backup successfully restored and applied!"
+
+msgid "Geçersiz Dosya"
+msgstr "Invalid File"
+
+msgid "Seçilen dosya geçerli bir ThisIsMyTube yedeği değil."
+msgstr "Selected file is not a valid ThisIsMyTube backup."
+
+msgid "Geri yükleme başarısız oldu:\n{err}"
+msgstr "Restore failed:\n{err}"
+
+msgid "Tamamlandı"
+msgstr "Completed"
+
+msgid "Önbellek temizlendi. Toplam {count} küçük resim silindi."
+msgstr "Cache cleared. Total {count} thumbnails deleted."
+
+msgid "Önbellek temizleme sırasında hata oluştu:\n{err}"
+msgstr "Error occurred while clearing cache:\n{err}"
+
+msgid "Sıfırlandı"
+msgstr "Reset"
+
+msgid "Tüm ayarlar ve indeks sıfırlandı. Fabrika ayarlarına dönüldü."
+msgstr "All settings and index have been reset to factory defaults."
+
+msgid "Sıfırlama sırasında hata oluştu:\n{err}"
+msgstr "Error occurred while resetting:\n{err}"
+
+msgid "Dil Değiştirildi"
+msgstr "Language Changed"
+
+msgid "Dil ayarının geçerli olabilmesi için lütfen uygulamayı kapatıp yeniden başlatın."
+msgstr "Please restart the application for the language setting to take effect."
+
+msgid "Ana Sayfaya dön"
+msgstr "Back to Home"
+
+msgid "Önceki ekrana geri dön"
+msgstr "Go back to previous screen"
+
+msgid "Video arama (birkaç harf yazıp Enter'a basın)"
+msgstr "Search video (type a few letters and press Enter)"
+
+msgid "⚙️ Ayarlar & Seçenekler"
+msgstr "⚙️ Settings & Options"
+
+msgid "Ana Sayfa"
+msgstr "Home"
+
+msgid "İndeksleme"
+msgstr "Indexing"
+
+msgid "Ayarlar"
+msgstr "Settings"
+
+msgid "Hakkında"
+msgstr "About"
+
+msgid "Klasör İçeriği"
+msgstr "Folder Contents"
+
+msgid "Arama Sonuçları"
+msgstr "Search Results"
+
+msgid "Disk Tarama Ayarları"
+msgstr "Disk Scan Settings"
+
+msgid "<b>Taranacak Ana Dizin:</b>"
+msgstr "<b>Main Directory to Scan:</b>"
+
+msgid "/home/kullanici/Videolar veya /mnt/HariciDisk"
+msgstr "/home/user/Videos or /mnt/ExternalDisk"
+
+msgid "<b>Private İçerik Dizini:</b>"
+msgstr "<b>Private Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Private"
+msgstr "/home/user/Videos/Private"
+
+msgid "<b>Dizi İçerik Dizini:</b>"
+msgstr "<b>Series Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Diziler"
+msgstr "/home/user/Videos/Series"
+
+msgid "<b>Sinema İçerik Dizini:</b>"
+msgstr "<b>Cinema Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Filmler"
+msgstr "/home/user/Videos/Movies"
+
+msgid "<b>Belgesel İçerik Dizini:</b>"
+msgstr "<b>Documentary Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Belgeseller"
+msgstr "/home/user/Videos/Documentaries"
+
+msgid "<b>Kids İçerik Dizini:</b>"
+msgstr "<b>Kids Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/CizgiFilmler"
+msgstr "/home/user/Videos/Cartoons"
+
+msgid "<b>Korku İçerik Dizini:</b>"
+msgstr "<b>Horror Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Korku"
+msgstr "/home/user/Videos/Horror"
+
+msgid "<b>Müzik İçerik Dizini:</b>"
+msgstr "<b>Music Content Directory:</b>"
+
+msgid "/home/kullanici/Videolar/Muzik"
+msgstr "/home/user/Videos/Music"
+
+msgid "Dizin Ekle"
+msgstr "Add Directory"
+
+msgid "Parola"
+msgstr "Password"
+
+msgid "Taramayı Başlat"
+msgstr "Start Scan"
+
+msgid "Tarama yapılmadı. Video listesi boş."
+msgstr "No scan performed. Video list is empty."
+
+msgid "ThisIsMyTube Hakkında"
+msgstr "About ThisIsMyTube"
+
+msgid "Sürüm:"
+msgstr "Version:"
+
+msgid "Lisans:"
+msgstr "License:"
+
+msgid "GUI / UX:"
+msgstr "GUI / UX:"
+
+msgid "Programlama Dili:"
+msgstr "Programming Language:"
+
+msgid "Video Oynatım Motoru:"
+msgstr "Video Playback Engine:"
+
+msgid "Yapımcı:"
+msgstr "Author:"
+
+msgid "Bu program; bilgisayarınızda depolanan video, film, dizi ve müzik gibi tüm yerel medya arşivinizi modern bir video platformu deneyimiyle önünüze seren gelişmiş bir kişisel medya merkezidir. Popüler video servislerinin sunduğu gezinme konforu, öneri akışı ve izleme kolaylıklarını tamamen çevrimdışı, gizlilik odaklı ve hızlı bir ortamda sunarak eğlenceli bir izleme deneyimi sağlar."
+msgstr "This program is an advanced personal media center that brings your entire local media archive stored on your computer, such as videos, movies, series, and music, right before you with a modern video platform experience. It provides an enjoyable viewing experience by offering navigation convenience, recommendation streams, and playback ease of popular video services in a completely offline, privacy-focused, and fast environment."
+
+msgid "Bu program hiçbir garanti getirmez."
+msgstr "This program comes with no warranty."
+
+msgid "Telif hakkı {copy} 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Copyright {copy} 2026 - A. Serhat KILIÇOĞLU"
+
+msgid "Dizin Seçin"
+msgstr "Select Directory"
+
+msgid "> Önerilen Videolar"
+msgstr "> Recommended Videos"
+
+msgid "Genel Ayarlar"
+msgstr "General Settings"
+
+msgid "Dil:"
+msgstr "Language:"
+
+msgid "Yedekleme ve Geri Yükleme"
+msgstr "Backup and Restore"
+
+msgid "Yedekle"
+msgstr "Backup"
+
+msgid "Geri Yükle"
+msgstr "Restore"
+
+msgid "Önbellek Yönetimi"
+msgstr "Cache Management"
+
+msgid "Önbelleği Temizle"
+msgstr "Clear Cache"
+
+msgid "Fabrika Ayarlarına Sıfırla"
+msgstr "Reset to Factory Defaults"
+
+msgid "Sıfırla"
+msgstr "Reset"
+
+msgid "Parola Belirle"
+msgstr "Set Password"
+
+msgid "Parola Doğrula"
+msgstr "Verify Password"
+
+msgid "Mevcut Parola:"
+msgstr "Current Password:"
+
+msgid "Yeni Parola:"
+msgstr "New Password:"
+
+msgid "Yeni Parola (Tekrar):"
+msgstr "New Password (Repeat):"
+
+msgid "Parola:"
+msgstr "Password:"
+
+msgid "Tamam"
+msgstr "OK"
+
+msgid "İptal"
+msgstr "Cancel"
+
+msgid "Parolalar eşleşmiyor!"
+msgstr "Passwords do not match!"
+
+msgid "Parola boş olamaz!"
+msgstr "Password cannot be empty!"
+
+msgid "Hatalı parola!"
+msgstr "Incorrect password!"
+
+msgid "Parola başarıyla güncellendi."
+msgstr "Password updated successfully."
+
+msgid "Parolayı Kaldır"
+msgstr "Remove Password"
+
+msgid "Parola başarıyla kaldırıldı."
+msgstr "Password removed successfully."
