@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThisisMyTube 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-29 12:00+0300\n"
+"PO-Revision-Date: 2026-03-29 12:00+0300\n"
+"Last-Translator: A. Serhat KILIÇOĞLU <shampuan>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ThisisMyTube - This is your tube!"
+msgstr "ThisisMyTube - This is your tube!"
+
+msgid "▼ Mod Seçeneği"
+msgstr "▼ Mod Seçeneği"
+
+msgid "▲ Mod Seçeneği"
+msgstr "▲ Mod Seçeneği"
+
+msgid "Normal Mod"
+msgstr "Normal Mod"
+
+msgid "Private Mod"
+msgstr "Private Mod"
+
+msgid "Dizi Mod"
+msgstr "Dizi Mod"
+
+msgid "Sinema Mod"
+msgstr "Sinema Mod"
+
+msgid "Belgesel Mod"
+msgstr "Belgesel Mod"
+
+msgid "Kids Mod"
+msgstr "Kids Mod"
+
+msgid "Korku Mod"
+msgstr "Korku Mod"
+
+msgid "Müzik Mod"
+msgstr "Müzik Mod"
+
+msgid "Klasörler"
+msgstr "Klasörler"
+
+msgid "Dök"
+msgstr "Dök"
+
+msgid "Dökülüyor..."
+msgstr "Dökülüyor..."
+
+msgid "Buraya Taşı"
+msgstr "Buraya Taşı"
+
+msgid "Buraya Taşı (1)"
+msgstr "Buraya Taşı (1)"
+
+msgid "Buraya Taşı ({n})"
+msgstr "Buraya Taşı ({n})"
+
+msgid "Panodaki veya arama ekranında seçili videoları bu klasöre taşır (Ctrl+V)"
+msgstr "Panodaki veya arama ekranında seçili videoları bu klasöre taşır (Ctrl+V)"
+
+msgid "(Bu mod için geçerli bir dizin tanımlanmamış)"
+msgstr "(Bu mod için geçerli bir dizin tanımlanmamış)"
+
+msgid "Kök Dizin"
+msgstr "Kök Dizin"
+
+msgid "Üst Dizin"
+msgstr "Üst Dizin"
+
+msgid ".. [Üst Dizin]"
+msgstr ".. [Üst Dizin]"
+
+msgid "✅ İzlenenler"
+msgstr "✅ İzlenenler"
+
+msgid "⭐ Favoriler"
+msgstr "⭐ Favoriler"
+
+msgid "Yükleniyor..."
+msgstr "Yükleniyor..."
+
+msgid "DELETED"
+msgstr "DELETED"
+
+msgid "Çöpe Gönder"
+msgstr "Çöpe Gönder"
+
+msgid "Yeniden Adlandır"
+msgstr "Yeniden Adlandır"
+
+msgid "İçeren Klasörü Aç"
+msgstr "İçeren Klasörü Aç"
+
+msgid "Video Bilgileri (I)"
+msgstr "Video Bilgileri (I)"
+
+msgid "Video Bilgilerini Göster (I)"
+msgstr "Video Bilgilerini Göster (I)"
+
+msgid "Video Bulunamadı"
+msgstr "Video Bulunamadı"
+
+msgid "Oynatmayı denediğiniz videoya erişilemiyor. Dosya silinmiş veya taşınmış olduğu için listeden otomatik olarak kaldırıldı."
+msgstr "Oynatmayı denediğiniz videoya erişilemiyor. Dosya silinmiş veya taşınmış olduğu için listeden otomatik olarak kaldırıldı."
+
+msgid "Önceki Video"
+msgstr "Önceki Video"
+
+msgid "Sonraki Rastgele Video"
+msgstr "Sonraki Rastgele Video"
+
+msgid "Oynat / Duraklat"
+msgstr "Oynat / Duraklat"
+
+msgid "Tam Ekran"
+msgstr "Tam Ekran"
+
+msgid "Videonun bulunduğu klasörü aç"
+msgstr "Videonun bulunduğu klasörü aç"
+
+msgid "Bu videoyu çöpe gönder"
+msgstr "Bu videoyu çöpe gönder"
+
+msgid "Videonun adını değiştir"
+msgstr "Videonun adını değiştir"
+
+msgid "Hız:"
+msgstr "Hız:"
+
+msgid "Sesi Aç / Kapat"
+msgstr "Sesi Aç / Kapat"
+
+msgid "Ses:"
+msgstr "Ses:"
+
+msgid "İzlendi"
+msgstr "İzlendi"
+
+msgid "Puan:"
+msgstr "Puan:"
+
+msgid "Sıradaki Videoyu Otomatik Oynat"
+msgstr "Sıradaki Videoyu Otomatik Oynat"
+
+msgid "Video Özeti & Kişisel Notlar:"
+msgstr "Video Özeti & Kişisel Notlar:"
+
+msgid "Bu video için özet veya kişisel notlarınızı buraya yazabilirsiniz (yazdıklarınız otomatik kaydedilir)..."
+msgstr "Bu video için özet veya kişisel notlarınızı buraya yazabilirsiniz (yazdıklarınız otomatik kaydedilir)..."
+
+msgid "Bir video seçiniz"
+msgstr "Bir video seçiniz"
+
+msgid "Bilgi"
+msgstr "Bilgi"
+
+msgid "Şu anda oynatılan bir video yok."
+msgstr "Şu anda oynatılan bir video yok."
+
+msgid "Dosya bulunamadı."
+msgstr "Dosya bulunamadı."
+
+msgid "Dosya bulunamadı veya zaten silinmiş."
+msgstr "Dosya bulunamadı veya zaten silinmiş."
+
+msgid "Video Adını Değiştir"
+msgstr "Video Adını Değiştir"
+
+msgid "Yeni dosya adı:"
+msgstr "Yeni dosya adı:"
+
+msgid "Hata"
+msgstr "Hata"
+
+msgid "Bu isimde bir dosya zaten mevcut."
+msgstr "Bu isimde bir dosya zaten mevcut."
+
+msgid "Dosya adı değiştirilemedi:\n{err}"
+msgstr "Dosya adı değiştirilemedi:\n{err}"
+
+msgid "Bilinmiyor"
+msgstr "Bilinmiyor"
+
+msgid "Dosya Adı:"
+msgstr "Dosya Adı:"
+
+msgid "Dosya Boyutu:"
+msgstr "Dosya Boyutu:"
+
+msgid "Çözünürlük:"
+msgstr "Çözünürlük:"
+
+msgid "Format / Codec:"
+msgstr "Format / Codec:"
+
+msgid "Süre:"
+msgstr "Süre:"
+
+msgid "Değiştirilme Tarihi:"
+msgstr "Değiştirilme Tarihi:"
+
+msgid "Konum:"
+msgstr "Konum:"
+
+msgid "Video Özellikleri"
+msgstr "Video Özellikleri"
+
+msgid "Video Bilgileri"
+msgstr "Video Bilgileri"
+
+msgid "Dosya çöpe gönderilemedi:\n{err}"
+msgstr "Dosya çöpe gönderilemedi:\n{err}"
+
+msgid "'{name}' adlı videoyu çöpe göndermek istediğinizden emin misiniz?"
+msgstr "'{name}' adlı videoyu çöpe göndermek istediğinizden emin misiniz?"
+
+msgid "Taşınacak video seçilmedi!\n\n• Ana sayfada bir videoyu seçip Ctrl+X yapabilir,\n• Ya da Arama sayfasında kutucukları işaretleyebilirsiniz."
+msgstr "Taşınacak video seçilmedi!\n\n• Ana sayfada bir videoyu seçip Ctrl+X yapabilir,\n• Ya da Arama sayfasında kutucukları işaretleyebilirsiniz."
+
+msgid "Geçerli bir hedef klasör seçilmedi."
+msgstr "Geçerli bir hedef klasör seçilmedi."
+
+msgid "<b>{count}</b> adet video şu klasöre taşınacak:<br><br><b>{folder}</b><br><br>Onaylıyor musunuz?"
+msgstr "<b>{count}</b> adet video şu klasöre taşınacak:<br><br><b>{folder}</b><br><br>Onaylıyor musunuz?"
+
+msgid "Videoları Taşı"
+msgstr "Videoları Taşı"
+
+msgid "{count} video başarıyla taşındı."
+msgstr "{count} video başarıyla taşındı."
+
+msgid "Taşıma Tamamlandı"
+msgstr "Taşıma Tamamlandı"
+
+msgid "Hata: Lütfen geçerli bir taranacak ana dizin belirtin."
+msgstr "Hata: Lütfen geçerli bir taranacak ana dizin belirtin."
+
+msgid "Tarama Başlatıldı..."
+msgstr "Tarama Başlatıldı..."
+
+msgid "Lütfen bekleyin."
+msgstr "Lütfen bekleyin."
+
+msgid "Tarama Tamamlandı!"
+msgstr "Tarama Tamamlandı!"
+
+msgid "Toplam Dosya Sayısı:"
+msgstr "Toplam Dosya Sayısı:"
+
+msgid "Bulunan Video Sayısı:"
+msgstr "Bulunan Video Sayısı:"
+
+msgid "Tarama Başarılı"
+msgstr "Tarama Başarılı"
+
+msgid "Toplam {count} video bulundu ve kaydedildi!"
+msgstr "Toplam {count} video bulundu ve kaydedildi!"
+
+msgid "video bulundu"
+msgstr "video bulundu"
+
+msgid "{count} video bulundu"
+msgstr "{count} video bulundu"
+
+msgid "(ilk {max_res} tanesi gösteriliyor)"
+msgstr "(ilk {max_res} tanesi gösteriliyor)"
+
+msgid "Arama"
+msgstr "Arama"
+
+msgid "Arama: \"{query}\" ({count_text})"
+msgstr "Arama: \"{query}\" ({count_text})"
+
+msgid "Klasör"
+msgstr "Klasör"
+
+msgid "İçerik dökülüyor, lütfen bekleyin..."
+msgstr "İçerik dökülüyor, lütfen bekleyin..."
+
+msgid "Klasör: {folder} (İçerik dökülüyor, lütfen bekleyin...)"
+msgstr "Klasör: {folder} (İçerik dökülüyor, lütfen bekleyin...)"
+
+msgid "video"
+msgstr "video"
+
+msgid "Klasör: {folder} ({count} video)"
+msgstr "Klasör: {folder} ({count} video)"
+
+msgid "{count} video"
+msgstr "{count} video"
+
+msgid "0 video"
+msgstr "0 video"
+
+msgid "Güvenlik Uyarısı"
+msgstr "Güvenlik Uyarısı"
+
+msgid "Private Mod için henüz parola belirlenmemiş!\nLütfen önce 'İndeksleme' menüsünden parola belirleyin."
+msgstr "Private Mod için henüz parola belirlenmemiş!\nLütfen önce 'İndeksleme' menüsünden parola belirleyin."
+
+msgid "Seçilen mod: <b>{mode}</b> ({count} video)"
+msgstr "Seçilen mod: <b>{mode}</b> ({count} video)"
+
+msgid "Başarılı"
+msgstr "Başarılı"
+
+msgid "Yedek başarıyla oluşturuldu:\n{path}"
+msgstr "Yedek başarıyla oluşturuldu:\n{path}"
+
+msgid "Yedekleme başarısız oldu:\n{err}"
+msgstr "Yedekleme başarısız oldu:\n{err}"
+
+msgid "Yedek başarıyla geri yüklendi ve uygulandı!"
+msgstr "Yedek başarıyla geri yüklendi ve uygulandı!"
+
+msgid "Geçersiz Dosya"
+msgstr "Geçersiz Dosya"
+
+msgid "Seçilen dosya geçerli bir ThisIsMyTube yedeği değil."
+msgstr "Seçilen dosya geçerli bir ThisIsMyTube yedeği değil."
+
+msgid "Geri yükleme başarısız oldu:\n{err}"
+msgstr "Geri yükleme başarısız oldu:\n{err}"
+
+msgid "Tamamlandı"
+msgstr "Tamamlandı"
+
+msgid "Önbellek temizlendi. Toplam {count} küçük resim silindi."
+msgstr "Önbellek temizlendi. Toplam {count} küçük resim silindi."
+
+msgid "Önbellek temizleme sırasında hata oluştu:\n{err}"
+msgstr "Önbellek temizleme sırasında hata oluştu:\n{err}"
+
+msgid "Sıfırlandı"
+msgstr "Sıfırlandı"
+
+msgid "Tüm ayarlar ve indeks sıfırlandı. Fabrika ayarlarına dönüldü."
+msgstr "Tüm ayarlar ve indeks sıfırlandı. Fabrika ayarlarına dönüldü."
+
+msgid "Sıfırlama sırasında hata oluştu:\n{err}"
+msgstr "Sıfırlama sırasında hata oluştu:\n{err}"
+
+msgid "Dil Değiştirildi"
+msgstr "Dil Değiştirildi"
+
+msgid "Dil ayarının geçerli olabilmesi için lütfen uygulamayı kapatıp yeniden başlatın."
+msgstr "Dil ayarının geçerli olabilmesi için lütfen uygulamayı kapatıp yeniden başlatın."
+
+msgid "Ana Sayfaya dön"
+msgstr "Ana Sayfaya dön"
+
+msgid "Önceki ekrana geri dön"
+msgstr "Önceki ekrana geri dön"
+
+msgid "Video arama (birkaç harf yazıp Enter'a basın)"
+msgstr "Video arama (birkaç harf yazıp Enter'a basın)"
+
+msgid "⚙️ Ayarlar & Seçenekler"
+msgstr "⚙️ Ayarlar & Seçenekler"
+
+msgid "Ana Sayfa"
+msgstr "Ana Sayfa"
+
+msgid "İndeksleme"
+msgstr "İndeksleme"
+
+msgid "Ayarlar"
+msgstr "Ayarlar"
+
+msgid "Hakkında"
+msgstr "Hakkında"
+
+msgid "Klasör İçeriği"
+msgstr "Klasör İçeriği"
+
+msgid "Arama Sonuçları"
+msgstr "Arama Sonuçları"
+
+msgid "Disk Tarama Ayarları"
+msgstr "Disk Tarama Ayarları"
+
+msgid "<b>Taranacak Ana Dizin:</b>"
+msgstr "<b>Taranacak Ana Dizin:</b>"
+
+msgid "/home/kullanici/Videolar veya /mnt/HariciDisk"
+msgstr "/home/kullanici/Videolar veya /mnt/HariciDisk"
+
+msgid "<b>Private İçerik Dizini:</b>"
+msgstr "<b>Private İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Private"
+msgstr "/home/kullanici/Videolar/Private"
+
+msgid "<b>Dizi İçerik Dizini:</b>"
+msgstr "<b>Dizi İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Diziler"
+msgstr "/home/kullanici/Videolar/Diziler"
+
+msgid "<b>Sinema İçerik Dizini:</b>"
+msgstr "<b>Sinema İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Filmler"
+msgstr "/home/kullanici/Videolar/Filmler"
+
+msgid "<b>Belgesel İçerik Dizini:</b>"
+msgstr "<b>Belgesel İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Belgeseller"
+msgstr "/home/kullanici/Videolar/Belgeseller"
+
+msgid "<b>Kids İçerik Dizini:</b>"
+msgstr "<b>Kids İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/CizgiFilmler"
+msgstr "/home/kullanici/Videolar/CizgiFilmler"
+
+msgid "<b>Korku İçerik Dizini:</b>"
+msgstr "<b>Korku İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Korku"
+msgstr "/home/kullanici/Videolar/Korku"
+
+msgid "<b>Müzik İçerik Dizini:</b>"
+msgstr "<b>Müzik İçerik Dizini:</b>"
+
+msgid "/home/kullanici/Videolar/Muzik"
+msgstr "/home/kullanici/Videolar/Muzik"
+
+msgid "Dizin Ekle"
+msgstr "Dizin Ekle"
+
+msgid "Parola"
+msgstr "Parola"
+
+msgid "Taramayı Başlat"
+msgstr "Taramayı Başlat"
+
+msgid "Tarama yapılmadı. Video listesi boş."
+msgstr "Tarama yapılmadı. Video listesi boş."
+
+msgid "ThisIsMyTube Hakkında"
+msgstr "ThisIsMyTube Hakkında"
+
+msgid "Sürüm:"
+msgstr "Sürüm:"
+
+msgid "Lisans:"
+msgstr "Lisans:"
+
+msgid "GUI / UX:"
+msgstr "GUI / UX:"
+
+msgid "Programlama Dili:"
+msgstr "Programlama Dili:"
+
+msgid "Video Oynatım Motoru:"
+msgstr "Video Oynatım Motoru:"
+
+msgid "Yapımcı:"
+msgstr "Yapımcı:"
+
+msgid "Bu program; bilgisayarınızda depolanan video, film, dizi ve müzik gibi tüm yerel medya arşivinizi modern bir video platformu deneyimiyle önünüze seren gelişmiş bir kişisel medya merkezidir. Popüler video servislerinin sunduğu gezinme konforu, öneri akışı ve izleme kolaylıklarını tamamen çevrimdışı, gizlilik odaklı ve hızlı bir ortamda sunarak eğlenceli bir izleme deneyimi sağlar."
+msgstr "Bu program; bilgisayarınızda depolanan video, film, dizi ve müzik gibi tüm yerel medya arşivinizi modern bir video platformu deneyimiyle önünüze seren gelişmiş bir kişisel medya merkezidir. Popüler video servislerinin sunduğu gezinme konforu, öneri akışı ve izleme kolaylıklarını tamamen çevrimdışı, gizlilik odaklı ve hızlı bir ortamda sunarak eğlenceli bir izleme deneyimi sağlar."
+
+msgid "Bu program hiçbir garanti getirmez."
+msgstr "Bu program hiçbir garanti getirmez."
+
+msgid "Telif hakkı {copy} 2026 - A. Serhat KILIÇOĞLU"
+msgstr "Telif hakkı {copy} 2026 - A. Serhat KILIÇOĞLU"
+
+msgid "Dizin Seçin"
+msgstr "Dizin Seçin"
+
+msgid "> Önerilen Videolar"
+msgstr "> Önerilen Videolar"
+
+msgid "Genel Ayarlar"
+msgstr "Genel Ayarlar"
+
+msgid "Dil:"
+msgstr "Dil:"
+
+msgid "Yedekleme ve Geri Yükleme"
+msgstr "Yedekleme ve Geri Yükleme"
+
+msgid "Yedekle"
+msgstr "Yedekle"
+
+msgid "Geri Yükle"
+msgstr "Geri Yükle"
+
+msgid "Önbellek Yönetimi"
+msgstr "Önbellek Yönetimi"
+
+msgid "Önbelleği Temizle"
+msgstr "Önbelleği Temizle"
+
+msgid "Fabrika Ayarlarına Sıfırla"
+msgstr "Fabrika Ayarlarına Sıfırla"
+
+msgid "Sıfırla"
+msgstr "Sıfırla"
+
+msgid "Parola Belirle"
+msgstr "Parola Belirle"
+
+msgid "Parola Doğrula"
+msgstr "Parola Doğrula"
+
+msgid "Mevcut Parola:"
+msgstr "Mevcut Parola:"
+
+msgid "Yeni Parola:"
+msgstr "Yeni Parola:"
+
+msgid "Yeni Parola (Tekrar):"
+msgstr "Yeni Parola (Tekrar):"
+
+msgid "Parola:"
+msgstr "Parola:"
+
+msgid "Tamam"
+msgstr "Tamam"
+
+msgid "İptal"
+msgstr "İptal"
+
+msgid "Parolalar eşleşmiyor!"
+msgstr "Parolalar eşleşmiyor!"
+
+msgid "Parola boş olamaz!"
+msgstr "Parola boş olamaz!"
+
+msgid "Hatalı parola!"
+msgstr "Hatalı parola!"
+
+msgid "Parola başarıyla güncellendi."
+msgstr "Parola başarıyla güncellendi."
+
+msgid "Parolayı Kaldır"
+msgstr "Parolayı Kaldır"
+
+msgid "Parola başarıyla kaldırıldı."
+msgstr "Parola başarıyla kaldırıldı."
